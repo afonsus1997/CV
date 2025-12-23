@@ -8,13 +8,7 @@
 
 # Education
 
-## **Instituto Superior Técnico**, Electronics Engineering
-
-**MSc\/BSc**
-
-Lisbon
-
-2019 – 2023
+## **Instituto Superior Técnico**, MSc\/BSc in Electronics Engineering -- Lisbon2019 – 2023
 
 - Thesis: Cubesat FPGA-based radio communications (scored 20\/20)
 
@@ -26,9 +20,7 @@ Lisbon
 
 # Experience and Research
 
-## **Spin.Works S.A.**, Electronics Engineer
-
-Lisbon
+## **Electronics Engineer**, Spin.Works S.A. -- Lisbon
 
 Feb 2023 – present
 
@@ -42,9 +34,7 @@ Feb 2023 – present
 
 
 
-## **ISTSAT-1 \/ IST Nanosatlab**, Electronics Engineer research group
-
-Lisbon
+## **Researcher**, ISTSAT-1 \/ IST Nanosatlab research group -- Lisbon
 
 2019 – 2025
 
@@ -60,9 +50,7 @@ Lisbon
 
 
 
-## **Vibration Test Campaign at ESA Cubesat Support Facility**, Electronics Engineer
-
-Redu, Belgium
+## **Researcher**, Vibration Test Campaign at ESA Cubesat Support Facility -- Redu, Belgium
 
 Jan 2020
 
@@ -70,9 +58,7 @@ Jan 2020
 
 
 
-## **Battery Qualification Campaign at ESA Cubesat Support Facility**, Electronics Engineer
-
-Redu, Belgium
+## **Researcher**, Battery Qualification Campaign at ESA Cubesat Support Facility -- Redu, Belgium
 
 Jan 2019
 
@@ -162,41 +148,23 @@ Jan 2018
 
 - Designed in Altium designer
 
-- PCBWAY sponsorship
 
-
-
-# Selected Honors
-
-- First place at Inércia Demoparty photography competition (2022)
-
-- Ranked top 3 with Lightning Cashback project at Chainhack 2019
-
-- 1st Place on the 2018 Local Hack day 12h Hackathon (2028)
-
-- 4 Merit Ribbons for the “Garra Makey” Project at Lisbon Maker Fair (2016)
 
 # Multi-Cultural Enrichment Activities
 
-## **“SNACK” International Exchange Program**
-
-Svendbog, Denmark
+## **“SNACK” International Exchange Program** -- **Svendbog, Denmark**
 
 Jan 2014
 
 
 
-## **“Changing Perspectives” International Exchange Program**
-
-Sintra, Portugal
+## **“Changing Perspectives” International Exchange Program** -- **Sintra, Portugal**
 
 Jan 2013
 
 
 
-## **“Beat Poverty” International Exchange Program**
-
-Svendbog, Denmark
+## **“Beat Poverty” International Exchange Program** -- **Svendbog, Denmark**
 
 Jan 2012
 
@@ -204,9 +172,7 @@ Jan 2012
 
 # Voluteering
 
-## **School Support Lessons for Children in Risk at ”Casa das Cores”**
-
-Lisboa, Portugak
+## **School Support Lessons for Children in Risk at ”Casa das Cores”** -- **Lisboa, Portugal**
 
 Jan 2016
 

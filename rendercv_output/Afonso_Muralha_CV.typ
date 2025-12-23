@@ -31,7 +31,7 @@
   typography-font-family-connections: "Source Sans 3",
   typography-font-family-section-titles: "Source Sans 3",
   typography-font-size-body: 10pt,
-  typography-font-size-name: 30pt,
+  typography-font-size-name: 25pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 10pt,
   typography-font-size-section-titles: 1.4em,
@@ -39,42 +39,42 @@
   typography-small-caps-headline: false,
   typography-small-caps-connections: false,
   typography-small-caps-section-titles: false,
-  typography-bold-name: true,
+  typography-bold-name: false,
   typography-bold-headline: false,
   typography-bold-connections: false,
-  typography-bold-section-titles: true,
-  links-underline: true,
-  links-show-external-link-icon: false,
-  header-alignment: center,
-  header-photo-width: 3.5cm,
-  header-space-below-name: 0.7cm,
+  typography-bold-section-titles: false,
+  links-underline: false,
+  links-show-external-link-icon: true,
+  header-alignment: left,
+  header-photo-width: 4cm,
+  header-space-below-name: 0.4cm,
   header-space-below-headline: 0.7cm,
   header-space-below-connections: 0.7cm,
   header-connections-hyperlink: true,
   header-connections-show-icons: true,
-  header-connections-display-urls-instead-of-usernames: false,
+  header-connections-display-urls-instead-of-usernames: true,
   header-connections-separator: "",
   header-connections-space-between-connections: 0.5cm,
-  section-titles-type: "with_partial_line",
-  section-titles-line-thickness: 0.5pt,
-  section-titles-space-above: 0.5cm,
+  section-titles-type: "moderncv",
+  section-titles-line-thickness: 0.15cm,
+  section-titles-space-above: 0.55cm,
   section-titles-space-below: 0.3cm,
-  sections-allow-page-break: true,
+  sections-allow-page-break: false,
   sections-space-between-text-based-entries: 0.3em,
   sections-space-between-regular-entries: 1.2em,
   entries-date-and-location-width: 4.15cm,
-  entries-side-space: 0.2cm,
-  entries-space-between-columns: 0.1cm,
+  entries-side-space: 0cm,
+  entries-space-between-columns: 0.3cm,
   entries-allow-page-break: false,
-  entries-short-second-row: true,
+  entries-short-second-row: false,
   entries-summary-space-left: 0cm,
-  entries-summary-space-above: 0cm,
+  entries-summary-space-above: 0.1cm,
   entries-highlights-bullet:  "•" ,
   entries-highlights-nested-bullet:  "•" ,
-  entries-highlights-space-left: 0.15cm,
-  entries-highlights-space-above: 0cm,
-  entries-highlights-space-between-items: 0cm,
-  entries-highlights-space-between-bullet-and-text: 0.5em,
+  entries-highlights-space-left: 0cm,
+  entries-highlights-space-above: 0.15cm,
+  entries-highlights-space-between-items: 0.1cm,
+  entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2025,
     month: 12,
@@ -83,14 +83,23 @@
 )
 
 
+#grid(
+  columns: (auto, 1fr),
+  column-gutter: 0cm,
+  align: horizon + left,
+  [#pad(left: 0.1cm, right: 0.4cm, image("photo.png", width: 4cm))
+],
+  [
 = Afonso Muralha
 
 #connections(
   [#connection-with-icon("location-dot")[Lisbon, Portugal]],
   [#link("mailto:afonsomuralha@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[afonsomuralha\@gmail.com]]],
   [#link("https://afonsomuralha.com/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[afonsomuralha.com]]],
-  [#link("https://github.com/afonsus1997", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[afonsus1997]]],
+  [#link("https://github.com/afonsus1997", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[github.com\/afonsus1997]]],
   [#connection-with-icon("walkie-talkie")[CS7BDF]],
+)
+  ]
 )
 
 
@@ -98,8 +107,14 @@
 
 #education-entry(
   [
-    #strong[Instituto Superior Técnico], Electronics Engineering
+    #strong[Instituto Superior Técnico], MSc\/BSc in Electronics Engineering -- Lisbon
     
+  ],
+  [
+    2019 – 2023
+    
+  ],
+  main-column-second-row: [
     - Thesis: Cubesat FPGA-based radio communications (scored 20\/20)
     
     - 2018-2019: Secretary at N3E student group
@@ -107,23 +122,20 @@
     - 2017-2019: Coordinator at N3E Robotics group
     
   ],
-  [
-    Lisbon
-    
-    2019 – 2023
-    
-  ],
-  degree-column: [
-    #strong[MSc\/BSc]
-  ],
 )
 
 == Experience and Research
 
 #regular-entry(
   [
-    #strong[Spin.Works S.A.], Electronics Engineer
+    #strong[Electronics Engineer], Spin.Works S.A. -- Lisbon
     
+  ],
+  [
+    Feb 2023 – present
+    
+  ],
+  main-column-second-row: [
     - Mixed-signal Hardware design (Eagle CAD, KiCAD)
     
     - HDL development and testing on Xilinx platforms
@@ -133,18 +145,18 @@
     - Embedded C development (applications\/drivers)
     
   ],
-  [
-    Lisbon
-    
-    Feb 2023 – present
-    
-  ],
 )
 
 #regular-entry(
   [
-    #strong[ISTSAT-1 \/ IST Nanosatlab], Electronics Engineer research group
+    #strong[Researcher], ISTSAT-1 \/ IST Nanosatlab research group -- Lisbon
     
+  ],
+  [
+    2019 – 2025
+    
+  ],
+  main-column-second-row: [
     - Responsible for the EGSE (Electronic Ground Support Equipment) hardware design and development (Altium Designer)
     
     - Planning the ISTSAT-1 integration and qualification campaign alongside ESA’s representatives
@@ -156,40 +168,34 @@
     - Successful satellite launch on the Ariane 6 maiden flight
     
   ],
-  [
-    Lisbon
-    
-    2019 – 2025
-    
-  ],
 )
 
 #regular-entry(
   [
-    #strong[Vibration Test Campaign at ESA Cubesat Support Facility], Electronics Engineer
-    
-    - Responsible for hardware tasks and tests
+    #strong[Researcher], Vibration Test Campaign at ESA Cubesat Support Facility -- Redu, Belgium
     
   ],
   [
-    Redu, Belgium
-    
     2020
     
   ],
+  main-column-second-row: [
+    - Responsible for hardware tasks and tests
+    
+  ],
 )
 
 #regular-entry(
   [
-    #strong[Battery Qualification Campaign at ESA Cubesat Support Facility], Electronics Engineer
-    
-    - Responsible for the battery tester and logger software developed in Labview
+    #strong[Researcher], Battery Qualification Campaign at ESA Cubesat Support Facility -- Redu, Belgium
     
   ],
   [
-    Redu, Belgium
-    
     2019
+    
+  ],
+  main-column-second-row: [
+    - Responsible for the battery tester and logger software developed in Labview
     
   ],
 )
@@ -226,6 +232,12 @@
   [
     #strong[#link("https://github.com/afonsus1997/Inercia-floppy-badge/")[Inércia 2023\/2024 Floppy electronic badge]]
     
+  ],
+  [
+    2023 – 2024
+    
+  ],
+  main-column-second-row: [
     #summary[Open-source hardware badge for Inércia demoparty]
     
     - Small-scale production and deployment
@@ -235,23 +247,21 @@
     - Designed in KiCAD
     
   ],
-  [
-    2023 – 2024
-    
-  ],
 )
 
 #regular-entry(
   [
     #strong[#link("https://github.com/afonsus1997/Q-Dice/")[Q-Dice]]
     
-    #summary[Electronic dice roller based on particle detection via Geiger-Müller tube]
-    
-    - Designed in Altium designer
-    
   ],
   [
     2021
+    
+  ],
+  main-column-second-row: [
+    #summary[Electronic dice roller based on particle detection via Geiger-Müller tube]
+    
+    - Designed in Altium designer
     
   ],
 )
@@ -260,13 +270,15 @@
   [
     #strong[#link("https://github.com/afonsus1997/Arktika-FPGA")[Arktika FPGA]]
     
-    #summary[Open source hardware Lattice FPGA development board]
-    
-    - Designed in KiCAD
-    
   ],
   [
     2020
+    
+  ],
+  main-column-second-row: [
+    #summary[Open source hardware Lattice FPGA development board]
+    
+    - Designed in KiCAD
     
   ],
 )
@@ -275,15 +287,17 @@
   [
     #strong[#link("https://github.com/afonsus1997/Pixels-Camp-PCB-Badge")[Pixels Camp Matrix badge]]
     
+  ],
+  [
+    2019
+    
+  ],
+  main-column-second-row: [
     #summary[Wi-Fi enabled LED matrix badge for Pixels Camp V2]
     
     - Designed in Altium designer
     
     - PCBWAY sponsorship
-    
-  ],
-  [
-    2019
     
   ],
 )
@@ -292,67 +306,57 @@
   [
     #strong[#link("https://github.com/afonsus1997/Duckuino")[“Duckuino” HID Emulator and Payload Injector]]
     
-    #summary[Feature-rich “USB Rubber Ducky” Clone]
-    
-    - Designed in Altium designer
-    
-    - PCBWAY sponsorship
-    
   ],
   [
     2018
     
   ],
+  main-column-second-row: [
+    #summary[Feature-rich “USB Rubber Ducky” Clone]
+    
+    - Designed in Altium designer
+    
+  ],
 )
-
-== Selected Honors
-
-- First place at Inércia Demoparty photography competition (2022)
-
-- Ranked top 3 with Lightning Cashback project at Chainhack 2019
-
-- 1st Place on the 2018 Local Hack day 12h Hackathon (2028)
-
-- 4 Merit Ribbons for the “Garra Makey” Project at Lisbon Maker Fair (2016)
 
 == Multi-Cultural Enrichment Activities
 
 #regular-entry(
   [
-    #strong[“SNACK” International Exchange Program]
+    #strong[“SNACK” International Exchange Program] -- #strong[Svendbog, Denmark]
     
   ],
   [
-    Svendbog, Denmark
-    
     2014
     
   ],
+  main-column-second-row: [
+  ],
 )
 
 #regular-entry(
   [
-    #strong[“Changing Perspectives” International Exchange Program]
+    #strong[“Changing Perspectives” International Exchange Program] -- #strong[Sintra, Portugal]
     
   ],
   [
-    Sintra, Portugal
-    
     2013
     
   ],
+  main-column-second-row: [
+  ],
 )
 
 #regular-entry(
   [
-    #strong[“Beat Poverty” International Exchange Program]
+    #strong[“Beat Poverty” International Exchange Program] -- #strong[Svendbog, Denmark]
     
   ],
   [
-    Svendbog, Denmark
-    
     2012
     
+  ],
+  main-column-second-row: [
   ],
 )
 
@@ -360,14 +364,14 @@
 
 #regular-entry(
   [
-    #strong[School Support Lessons for Children in Risk at ”Casa das Cores”]
+    #strong[School Support Lessons for Children in Risk at ”Casa das Cores”] -- #strong[Lisboa, Portugal]
     
   ],
   [
-    Lisboa, Portugak
-    
     2016
     
+  ],
+  main-column-second-row: [
   ],
 )
 
