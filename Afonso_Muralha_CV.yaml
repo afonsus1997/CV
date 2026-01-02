@@ -20,14 +20,14 @@ cv:
         area: Electronics Engineering
         degree: MSc/BSc
         date:
-        start_date: 2019
+        start_date: 2015
         end_date: 2023
         location: Lisbon
         summary:
         highlights:
           - 'Thesis: Cubesat FPGA-based radio communications (scored 20/20)'
           - '2018-2019: Secretary at N3E student group'
-          - '2017-2019: Coordinator at N3E Robotics group'
+          - '2017-2019: Coordinator at N3E robotics group'
     Experience and Research:
       - company: Spin.Works S.A.
         position: Electronics Engineer
@@ -70,7 +70,6 @@ development (Altium Designer)'
         highlights:
           - 'Responsible for the battery tester and logger software developed in Labview' 
     
-      
 
     Relevant Skills:
       - label: Languages
@@ -162,6 +161,11 @@ development (Altium Designer)'
         location: Svendbog, Denmark
 
     Voluteering:
+      - name: 'Volunteer at Inércia Demoparty (buildup, AV ops)'
+        date:
+        start_date: 2024
+        end_date: 2025
+        location: Almada, Portugal
       - name: 'School Support Lessons for Children in Risk at ”Casa das Cores”'
         date: 2016
         start_date:

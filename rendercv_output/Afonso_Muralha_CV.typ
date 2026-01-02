@@ -108,19 +108,19 @@
 #education-entry(
   [
     #strong[Instituto Superior Técnico], MSc\/BSc in Electronics Engineering -- Lisbon
-    
+
   ],
   [
-    2019 – 2023
-    
+    2015 – 2023
+
   ],
   main-column-second-row: [
     - Thesis: Cubesat FPGA-based radio communications (scored 20\/20)
-    
+
     - 2018-2019: Secretary at N3E student group
-    
-    - 2017-2019: Coordinator at N3E Robotics group
-    
+
+    - 2017-2019: Coordinator at N3E robotics group
+
   ],
 )
 
@@ -129,74 +129,74 @@
 #regular-entry(
   [
     #strong[Electronics Engineer], Spin.Works S.A. -- Lisbon
-    
+
   ],
   [
     Feb 2023 – present
-    
+
   ],
   main-column-second-row: [
     - Mixed-signal Hardware design (Eagle CAD, KiCAD)
-    
+
     - HDL development and testing on Xilinx platforms
-    
+
     - HDL CI\/CD deployment and management
-    
+
     - Embedded C development (applications\/drivers)
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[Researcher], ISTSAT-1 \/ IST Nanosatlab research group -- Lisbon
-    
+
   ],
   [
     2019 – 2025
-    
+
   ],
   main-column-second-row: [
     - Responsible for the EGSE (Electronic Ground Support Equipment) hardware design and development (Altium Designer)
-    
+
     - Planning the ISTSAT-1 integration and qualification campaign alongside ESA’s representatives
-    
+
     - Execution of the ISTSAT-1 integration, qualification and launch campaign
-    
+
     - Non-conformity management, discussion and resolution
-    
+
     - Successful satellite launch on the Ariane 6 maiden flight
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[Researcher], Vibration Test Campaign at ESA Cubesat Support Facility -- Redu, Belgium
-    
+
   ],
   [
     2020
-    
+
   ],
   main-column-second-row: [
     - Responsible for hardware tasks and tests
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[Researcher], Battery Qualification Campaign at ESA Cubesat Support Facility -- Redu, Belgium
-    
+
   ],
   [
     2019
-    
+
   ],
   main-column-second-row: [
     - Responsible for the battery tester and logger software developed in Labview
-    
+
   ],
 )
 
@@ -231,91 +231,91 @@
 #regular-entry(
   [
     #strong[#link("https://github.com/afonsus1997/Inercia-floppy-badge/")[Inércia 2023\/2024 Floppy electronic badge]]
-    
+
   ],
   [
     2023 – 2024
-    
+
   ],
   main-column-second-row: [
     #summary[Open-source hardware badge for Inércia demoparty]
-    
+
     - Small-scale production and deployment
-    
+
     - JLCPCB sponsorship
-    
+
     - Designed in KiCAD
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[#link("https://github.com/afonsus1997/Q-Dice/")[Q-Dice]]
-    
+
   ],
   [
     2021
-    
+
   ],
   main-column-second-row: [
     #summary[Electronic dice roller based on particle detection via Geiger-Müller tube]
-    
+
     - Designed in Altium designer
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[#link("https://github.com/afonsus1997/Arktika-FPGA")[Arktika FPGA]]
-    
+
   ],
   [
     2020
-    
+
   ],
   main-column-second-row: [
     #summary[Open source hardware Lattice FPGA development board]
-    
+
     - Designed in KiCAD
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[#link("https://github.com/afonsus1997/Pixels-Camp-PCB-Badge")[Pixels Camp Matrix badge]]
-    
+
   ],
   [
     2019
-    
+
   ],
   main-column-second-row: [
     #summary[Wi-Fi enabled LED matrix badge for Pixels Camp V2]
-    
+
     - Designed in Altium designer
-    
+
     - PCBWAY sponsorship
-    
+
   ],
 )
 
 #regular-entry(
   [
     #strong[#link("https://github.com/afonsus1997/Duckuino")[“Duckuino” HID Emulator and Payload Injector]]
-    
+
   ],
   [
     2018
-    
+
   ],
   main-column-second-row: [
     #summary[Feature-rich “USB Rubber Ducky” Clone]
-    
+
     - Designed in Altium designer
-    
+
   ],
 )
 
@@ -324,11 +324,11 @@
 #regular-entry(
   [
     #strong[“SNACK” International Exchange Program] -- #strong[Svendbog, Denmark]
-    
+
   ],
   [
     2014
-    
+
   ],
   main-column-second-row: [
   ],
@@ -337,11 +337,11 @@
 #regular-entry(
   [
     #strong[“Changing Perspectives” International Exchange Program] -- #strong[Sintra, Portugal]
-    
+
   ],
   [
     2013
-    
+
   ],
   main-column-second-row: [
   ],
@@ -350,11 +350,11 @@
 #regular-entry(
   [
     #strong[“Beat Poverty” International Exchange Program] -- #strong[Svendbog, Denmark]
-    
+
   ],
   [
     2012
-    
+
   ],
   main-column-second-row: [
   ],
@@ -364,12 +364,25 @@
 
 #regular-entry(
   [
+    #strong[Volunteer at Inércia Demoparty (buildup, AV ops)] -- #strong[Almada, Portugal]
+
+  ],
+  [
+    2024 – 2025
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#regular-entry(
+  [
     #strong[School Support Lessons for Children in Risk at ”Casa das Cores”] -- #strong[Lisboa, Portugal]
-    
+
   ],
   [
     2016
-    
+
   ],
   main-column-second-row: [
   ],

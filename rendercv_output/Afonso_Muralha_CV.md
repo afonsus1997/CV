@@ -7,19 +7,17 @@
 
 
 # Education
+## **Instituto Superior Técnico**, MSc/BSc in Electronics Engineering -- Lisbon2015 – 2023
 
-## **Instituto Superior Técnico**, MSc\/BSc in Electronics Engineering -- Lisbon2019 – 2023
-
-- Thesis: Cubesat FPGA-based radio communications (scored 20\/20)
+- Thesis: Cubesat FPGA-based radio communications (scored 20/20)
 
 - 2018-2019: Secretary at N3E student group
 
-- 2017-2019: Coordinator at N3E Robotics group
+- 2017-2019: Coordinator at N3E robotics group
 
 
 
 # Experience and Research
-
 ## **Electronics Engineer**, Spin.Works S.A. -- Lisbon
 
 Feb 2023 – present
@@ -28,13 +26,13 @@ Feb 2023 – present
 
 - HDL development and testing on Xilinx platforms
 
-- HDL CI\/CD deployment and management
+- HDL CI/CD deployment and management
 
-- Embedded C development (applications\/drivers)
+- Embedded C development (applications/drivers)
 
 
 
-## **Researcher**, ISTSAT-1 \/ IST Nanosatlab research group -- Lisbon
+## **Researcher**, ISTSAT-1 / IST Nanosatlab research group -- Lisbon
 
 2019 – 2025
 
@@ -52,7 +50,7 @@ Feb 2023 – present
 
 ## **Researcher**, Vibration Test Campaign at ESA Cubesat Support Facility -- Redu, Belgium
 
-Jan 2020
+2020
 
 - Responsible for hardware tasks and tests
 
@@ -60,32 +58,29 @@ Jan 2020
 
 ## **Researcher**, Battery Qualification Campaign at ESA Cubesat Support Facility -- Redu, Belgium
 
-Jan 2019
+2019
 
 - Responsible for the battery tester and logger software developed in Labview
 
 
 
 # Relevant Skills
+**Languages:** C, Python, Verilog, UVM, Bash scripting
 
-- Languages: C, Python, Verilog, UVM, Bash scripting
+**HDL Platforms:** Xilinx
 
-- HDL Platforms: Xilinx
+**E-CAD:** Altium designer, KiCAD, EAGE CAD
 
-- E-CAD: Altium designer, KiCAD, EAGE CAD
+**Electronics:** Competent in SMD and THD Soldering and reworking
 
-- Electronics: Competent in SMD and THD Soldering and reworking
-
-- Prototyping and iterative design: 3D Printing (FDM\/SLA), 3D Modeling (Fusion360, Solidworks)
+**Prototyping and iterative design:** 3D Printing (FDM/SLA), 3D Modeling (Fusion360, Solidworks)
 
 # Languages
+**Portuguese:** Native speaker
 
-- Portuguese: Native speaker
-
-- English: Fluent
+**English:** Fluent
 
 # Communication skills
-
 - Speaker at 3D Printing Workshops “3D Printing 101 – From Design to Reality”
 
 - Instructor at Arduino classes for beginners
@@ -93,12 +88,11 @@ Jan 2019
 - Instructor in workshops at N3E and altLab
 
 # Featured Projects
-
-## **#link("https://github.com/afonsus1997/Inercia-floppy-badge/")[Inércia 2023\/2024 Floppy electronic badge]**
+## **[Inércia 2023/2024 Floppy electronic badge](https://github.com/afonsus1997/Inercia-floppy-badge/)**
 
 2023 – 2024
 
-#summary[Open-source hardware badge for Inércia demoparty]
+Open-source hardware badge for Inércia demoparty
 
 - Small-scale production and deployment
 
@@ -108,31 +102,31 @@ Jan 2019
 
 
 
-## **#link("https://github.com/afonsus1997/Q-Dice/")[Q-Dice]**
+## **[Q-Dice](https://github.com/afonsus1997/Q-Dice/)**
 
-Jan 2021
+2021
 
-#summary[Electronic dice roller based on particle detection via Geiger-Müller tube]
+Electronic dice roller based on particle detection via Geiger-Müller tube
 
 - Designed in Altium designer
 
 
 
-## **#link("https://github.com/afonsus1997/Arktika-FPGA")[Arktika FPGA]**
+## **[Arktika FPGA](https://github.com/afonsus1997/Arktika-FPGA)**
 
-Jan 2020
+2020
 
-#summary[Open source hardware Lattice FPGA development board]
+Open source hardware Lattice FPGA development board
 
 - Designed in KiCAD
 
 
 
-## **#link("https://github.com/afonsus1997/Pixels-Camp-PCB-Badge")[Pixels Camp Matrix badge]**
+## **[Pixels Camp Matrix badge](https://github.com/afonsus1997/Pixels-Camp-PCB-Badge)**
 
-Jan 2019
+2019
 
-#summary[Wi-Fi enabled LED matrix badge for Pixels Camp V2]
+Wi-Fi enabled LED matrix badge for Pixels Camp V2
 
 - Designed in Altium designer
 
@@ -140,49 +134,52 @@ Jan 2019
 
 
 
-## **#link("https://github.com/afonsus1997/Duckuino")[“Duckuino” HID Emulator and Payload Injector]**
+## **[“Duckuino” HID Emulator and Payload Injector](https://github.com/afonsus1997/Duckuino)**
 
-Jan 2018
+2018
 
-#summary[Feature-rich “USB Rubber Ducky” Clone]
+Feature-rich “USB Rubber Ducky” Clone
 
 - Designed in Altium designer
 
 
 
 # Multi-Cultural Enrichment Activities
-
 ## **“SNACK” International Exchange Program** -- **Svendbog, Denmark**
 
-Jan 2014
+2014
 
 
 
 ## **“Changing Perspectives” International Exchange Program** -- **Sintra, Portugal**
 
-Jan 2013
+2013
 
 
 
 ## **“Beat Poverty” International Exchange Program** -- **Svendbog, Denmark**
 
-Jan 2012
+2012
 
 
 
 # Voluteering
+## **Volunteer at Inércia Demoparty (buildup, AV ops)** -- **Almada, Portugal**
+
+2024 – 2025
+
+
 
 ## **School Support Lessons for Children in Risk at ”Casa das Cores”** -- **Lisboa, Portugal**
 
-Jan 2016
+2016
 
 
 
 # Other Interests
-
 - Amateur radio (Cat2) and satellite tracking
 
-- Astro\/Photography
+- Astro/Photography
 
 - 3D Printing
 
