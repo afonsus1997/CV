@@ -32,10 +32,10 @@ cv:
       - company: Spin.Works S.A.
         position: Electronics Engineer
         date:
-        start_date: 2023-02
+        start_date: 2022-02
         end_date: present
-        location: Lisbon
-        summary:
+        location: "Lisbon"
+        summary: "(2022-2023: part-time, 2023-present: full-time)"
         highlights:
           - Mixed-signal Hardware design (Eagle CAD, KiCAD)
           - HDL development and testing on Xilinx platforms
@@ -175,6 +175,7 @@ development (Altium Designer)'
     Other Interests:
       - bullet: Amateur radio (Cat2) and satellite tracking
       - bullet: Astro/Photography
+      - bullet: Birdwatching (registered SPEA associate)
       - bullet: 3D Printing
       - bullet: Hobby Electronics
       - bullet: Self-hosting

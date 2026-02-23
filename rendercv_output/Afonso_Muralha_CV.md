@@ -20,7 +20,9 @@
 # Experience and Research
 ## **Electronics Engineer**, Spin.Works S.A. -- Lisbon
 
-Feb 2023 – present
+Feb 2022 – present
+
+(2022-2023: part-time, 2023-present: full-time)
 
 - Mixed-signal Hardware design (Eagle CAD, KiCAD)
 
@@ -180,6 +182,8 @@ Feature-rich “USB Rubber Ducky” Clone
 - Amateur radio (Cat2) and satellite tracking
 
 - Astro/Photography
+
+- Birdwatching (registered SPEA associate)
 
 - 3D Printing
 

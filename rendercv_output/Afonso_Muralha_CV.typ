@@ -132,10 +132,12 @@
 
   ],
   [
-    Feb 2023 – present
+    Feb 2022 – present
 
   ],
   main-column-second-row: [
+    #summary[(2022-2023: part-time, 2023-present: full-time)]
+
     - Mixed-signal Hardware design (Eagle CAD, KiCAD)
 
     - HDL development and testing on Xilinx platforms
@@ -393,6 +395,8 @@
 - Amateur radio (Cat2) and satellite tracking
 
 - Astro\/Photography
+
+- Birdwatching (registered SPEA associate)
 
 - 3D Printing
 
