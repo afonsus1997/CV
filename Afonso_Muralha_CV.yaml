@@ -30,10 +30,19 @@ cv:
           - '2017-2019: Coordinator at N3E robotics group'
     Experience and Research:
       - company: Spin.Works S.A.
+        position: Electronics Technical Lead
+        date:
+        start_date: 2026-04
+        end_date: present
+        location: "Lisbon"
+        highlights:
+          - Mixed-signal Hardware design (Eagle CAD, KiCAD)
+          - Hardware development coordenation
+      - company: Spin.Works S.A.
         position: Electronics Engineer
         date:
         start_date: 2022-02
-        end_date: present
+        end_date: 2026-04
         location: "Lisbon"
         summary: "(2022-2023: part-time, 2023-present: full-time)"
         highlights:
@@ -52,24 +61,9 @@ cv:
           - 'Responsible for the EGSE (Electronic Ground Support Equipment) hardware design and
 development (Altium Designer)'
           - 'Planning the ISTSAT-1 integration and qualification campaign alongside ESA’s representatives'
-          - 'Execution of the ISTSAT-1 integration, qualification and launch campaign'
+          - 'Execution of the ISTSAT-1 integration, qualification and launch campaigns'
           - 'Non-conformity management, discussion and resolution'
           - 'Successful satellite launch on the Ariane 6 maiden flight'
-      - company: Vibration Test Campaign at ESA Cubesat Support Facility
-        position: Researcher
-        date: 2020
-        location: Redu, Belgium
-        summary:
-        highlights:
-          - 'Responsible for hardware tasks and tests'
-      - company: 'Battery Qualification Campaign at ESA Cubesat Support Facility'
-        position: Researcher
-        date: 2019
-        location: Redu, Belgium
-        summary:
-        highlights:
-          - 'Responsible for the battery tester and logger software developed in Labview' 
-    
 
     Relevant Skills:
       - label: Languages

@@ -18,9 +18,19 @@
 
 
 # Experience and Research
+## **Electronics Technical Lead**, Spin.Works S.A. -- Lisbon
+
+Apr 2026 – present
+
+- Mixed-signal Hardware design (Eagle CAD, KiCAD)
+
+- Hardware development coordenation
+
+
+
 ## **Electronics Engineer**, Spin.Works S.A. -- Lisbon
 
-Feb 2022 – present
+Feb 2022 – Apr 2026
 
 (2022-2023: part-time, 2023-present: full-time)
 
@@ -42,27 +52,11 @@ Feb 2022 – present
 
 - Planning the ISTSAT-1 integration and qualification campaign alongside ESA’s representatives
 
-- Execution of the ISTSAT-1 integration, qualification and launch campaign
+- Execution of the ISTSAT-1 integration, qualification and launch campaigns
 
 - Non-conformity management, discussion and resolution
 
 - Successful satellite launch on the Ariane 6 maiden flight
-
-
-
-## **Researcher**, Vibration Test Campaign at ESA Cubesat Support Facility -- Redu, Belgium
-
-2020
-
-- Responsible for hardware tasks and tests
-
-
-
-## **Researcher**, Battery Qualification Campaign at ESA Cubesat Support Facility -- Redu, Belgium
-
-2019
-
-- Responsible for the battery tester and logger software developed in Labview
 
 
 

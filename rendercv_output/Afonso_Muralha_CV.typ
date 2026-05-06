@@ -128,11 +128,28 @@
 
 #regular-entry(
   [
+    #strong[Electronics Technical Lead], Spin.Works S.A. -- Lisbon
+
+  ],
+  [
+    Apr 2026 – present
+
+  ],
+  main-column-second-row: [
+    - Mixed-signal Hardware design (Eagle CAD, KiCAD)
+
+    - Hardware development coordenation
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[Electronics Engineer], Spin.Works S.A. -- Lisbon
 
   ],
   [
-    Feb 2022 – present
+    Feb 2022 – Apr 2026
 
   ],
   main-column-second-row: [
@@ -163,41 +180,11 @@
 
     - Planning the ISTSAT-1 integration and qualification campaign alongside ESA’s representatives
 
-    - Execution of the ISTSAT-1 integration, qualification and launch campaign
+    - Execution of the ISTSAT-1 integration, qualification and launch campaigns
 
     - Non-conformity management, discussion and resolution
 
     - Successful satellite launch on the Ariane 6 maiden flight
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Researcher], Vibration Test Campaign at ESA Cubesat Support Facility -- Redu, Belgium
-
-  ],
-  [
-    2020
-
-  ],
-  main-column-second-row: [
-    - Responsible for hardware tasks and tests
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Researcher], Battery Qualification Campaign at ESA Cubesat Support Facility -- Redu, Belgium
-
-  ],
-  [
-    2019
-
-  ],
-  main-column-second-row: [
-    - Responsible for the battery tester and logger software developed in Labview
 
   ],
 )
