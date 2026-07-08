@@ -24,7 +24,7 @@ Apr 2026 – present
 
 - Mixed-signal Hardware design (Eagle CAD, KiCAD)
 
-- Hardware development coordenation
+- Hardware development coordination
 
 
 

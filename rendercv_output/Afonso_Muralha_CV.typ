@@ -138,7 +138,7 @@
   main-column-second-row: [
     - Mixed-signal Hardware design (Eagle CAD, KiCAD)
 
-    - Hardware development coordenation
+    - Hardware development coordination
 
   ],
 )
